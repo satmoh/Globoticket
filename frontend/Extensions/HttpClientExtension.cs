@@ -10,6 +10,7 @@ namespace GloboTicket.Frontend.Extensions
 {
     public static class HttpClientExtensions
     {
+        // it so bad to comment a code
         public static Task<HttpResponseMessage> PostAsJson<T>(this HttpClient httpClient, string url, T data)
         {
             var dataAsString = JsonSerializer.Serialize(data);
