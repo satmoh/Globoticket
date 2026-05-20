@@ -2,6 +2,8 @@
 {
     public class NewModel
     {
-        // This is a placeholder for the new model. You can replace it with your actual properties and methods.
+        // a propertie
+        public Guid NewModelId { get; set; }
+        public string? Name { get; set; }
     }
 }
