@@ -9,5 +9,7 @@
         public string? Email { get; set; }
         // another propertie
         public string? Password { get; set; }
+        // There is a conflict aoce I guess
+        //TODO: This one will raise a conflict code
     }
 }
