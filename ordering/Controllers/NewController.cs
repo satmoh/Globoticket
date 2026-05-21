@@ -13,7 +13,7 @@ namespace GloboTicket.Ordering.Controllers
             return Ok("This is a placeholder response from the new controller.");
         }
 
-        // this a placeholder to put a code for issue53
-        //TODO: implement the logic for issue53
+        // This is a placeholder t simulate a confilict code
+        //TODO: Simulate a conflict code
     }
 }
