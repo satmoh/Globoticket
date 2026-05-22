@@ -24,5 +24,7 @@ namespace GloboTicket.Ordering.Services
         }
         // this a placeholder to put a code for issue53
         //TODO: implement the logic for issue53
+        // Feature Ten: this is a placeholder to simulate a conflict
+        // tODO : Simulate a conflict code for feature ten
     }
 }
